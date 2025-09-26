@@ -35,5 +35,8 @@
 
 ## Action	Duration, unless extenuating circumstances arise	Responsibility
 - 1. Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program.
-- 2. As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.
-- 3. Faculty, invigilator, student, support staff
+- As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.
+- Faculty, invigilator, student, support staff
+- 2. Inform the student of the witnessed or suspected academic integrity offence and discuss the situation with them informally.
+- As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.	
+- Faculty, invigilator, support staff
